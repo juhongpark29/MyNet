@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../rtl/Sig_ROM.v" \
+"../../../../rtl/Weight_Memory.v" \
+"../../../../rtl/axi_lite_wrapper.v" \
+"../../../../rtl/maxFinder.v" \
+"../../../../rtl/zynet.v" \
+
+sv xil_defaultlib  \
+"../../../../rtl/Layer.sv" \
+"../../../../rtl/data_flow_handler.sv" \
+"../../../../rtl/neuron.sv" \
+"../../../../rtl/relu.sv" \
+
+verilog xil_defaultlib  \
+"../../../../tb/top_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

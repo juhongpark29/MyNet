@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Configuration completed                      0 ns
+1. Accuracy: 100.000000, Detected number: 7, Expected: 0007
+2. Accuracy: 100.000000, Detected number: 2, Expected: 0002
+3. Accuracy: 100.000000, Detected number: 1, Expected: 0001
+4. Accuracy: 100.000000, Detected number: 0, Expected: 0000
+5. Accuracy: 100.000000, Detected number: 4, Expected: 0004
+6. Accuracy: 100.000000, Detected number: 1, Expected: 0001
+7. Accuracy: 100.000000, Detected number: 4, Expected: 0004
+8. Accuracy: 100.000000, Detected number: 9, Expected: 0009
+9. Accuracy: 88.888889, Detected number: 6, Expected: 0005
+10. Accuracy: 90.000000, Detected number: 9, Expected: 0009

@@ -1,0 +1,14 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot top_sim_behav xil_defaultlib.top_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 5 for port 's_axi_awaddr' [C:/Users/jhpark/fpga/zynet_30_30_10_10_0/tb/top_sim.v:73]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 3 for port 's_axi_awprot' [C:/Users/jhpark/fpga/zynet_30_30_10_10_0/tb/top_sim.v:74]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 5 for port 's_axi_araddr' [C:/Users/jhpark/fpga/zynet_30_30_10_10_0/tb/top_sim.v:84]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 3 for port 's_axi_arprot' [C:/Users/jhpark/fpga/zynet_30_30_10_10_0/tb/top_sim.v:85]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/neuron.sv:146]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 1 for port 'i_valid' [C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/zynet.v:264]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

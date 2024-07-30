@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/Layer.sv,1717652186,systemVerilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/data_flow_handler.sv,,Layer,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/Sig_ROM.v,1716874868,verilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/Weight_Memory.v,,Sig_ROM,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/Weight_Memory.v,1715356190,verilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/axi_lite_wrapper.v,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/include.v,Weight_Memory,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/axi_lite_wrapper.v,1717652060,verilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/maxFinder.v,,axi_lite_wrapper,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/data_flow_handler.sv,1717652202,systemVerilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/neuron.sv,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/include.v,data_flow_handler,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/include.v,1715356220,verilog,,,,,,,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/maxFinder.v,1717634536,verilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/zynet.v,,maxFinder,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/neuron.sv,1717639584,systemVerilog,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/relu.sv,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/include.v,neuron,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/relu.sv,1716885579,systemVerilog,,,,ReLU,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/zynet.v,1717652102,verilog,,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/include.v,zyNet,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/tb/top_sim.v,1715358348,verilog,,,C:/Users/jhpark/fpga/zynet_30_30_10_10_0/rtl/include.v,top_sim,,uvm,,,,,,
+C:/Users/jhpark/fpga/zynet_30_30_10_10_0/zynet_30_30_10_10_0.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
